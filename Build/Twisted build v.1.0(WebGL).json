@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game Dev Project",
+"dataUrl": "Twisted build v.1.0(WebGL).data.unityweb",
+"asmCodeUrl": "Twisted build v.1.0(WebGL).asm.code.unityweb",
+"asmMemoryUrl": "Twisted build v.1.0(WebGL).asm.memory.unityweb",
+"asmFrameworkUrl": "Twisted build v.1.0(WebGL).asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
